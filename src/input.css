@@ -38,5 +38,5 @@
 }
 
 .ts-button {
-  @apply text-center uppercase tracking-tighter py-4 px-8 text-sm font-semibold cursor-pointer hover:bg-opacity-90;
+  @apply text-center uppercase tracking-tighter py-4 px-8 text-sm font-semibold cursor-pointer hover:bg-opacity-95;
 }
